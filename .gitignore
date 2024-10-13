@@ -1,0 +1,8 @@
+# To ignore environment variable files
+.env
+
+# To ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the virtual environment folder
+calorie-calculator/
